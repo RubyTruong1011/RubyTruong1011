@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RubyTruong1011
+- 👋 Hi, I’m Ruby Truong
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me rubytruong1011@gmail.com
