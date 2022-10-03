@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding
 - 📫 How to reach me: rubytruong1011@gmail.com
 
+```
 const ruby = {
     pronouns: "She" | "Her",
     code: ["Javascript", "Python"],
@@ -13,7 +14,7 @@ const ruby = {
         databases: [ "MongoDB"],
         etc: [ "Firebase" ]
     }
-
+```
 
 <!---
 RubyTruong1011/RubyTruong1011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
